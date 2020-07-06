@@ -1,0 +1,8 @@
+[submodule "ariane-sdk"]
+	path = ariane-sdk
+	url = git@github.com:davidschrammel/ariane-sdk.git
+	branch = donky
+[submodule "cva6"]
+	path = cva6
+	url = git@github.com:davidschrammel/cva6.git
+	branch = donky

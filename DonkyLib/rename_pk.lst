@@ -1,0 +1,12 @@
+# Specify all libc symbols the pk handler shall intercept.
+sigaction      pk_sigaction
+signal         pk_signal
+mmap           pk_mmap
+munmap         pk_munmap
+mprotect       pk_mprotect
+pkey_alloc     pk_pkey_alloc
+pkey_free      pk_pkey_free
+pkey_mprotect  pk_pkey_mprotect
+pthread_create pk_pthread_create
+#pthread_exit   pk_pthread_exit
+#malloc         pk_malloc

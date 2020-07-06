@@ -1,0 +1,15 @@
+<?xml version="1.0"?>  
+<Tests>  
+  <Test TestId="0001">  
+    <Name>Test 1 name</Name>  
+    <Input>1</Input>  
+  </Test>  
+  <Test TestId="0002">  
+    <Name>Test 2 name</Name>  
+    <Input>2</Input>  
+  </Test>  
+  <Test TestId="0003">  
+    <Name>Test 3 name</Name>  
+    <Input>3</Input>  
+  </Test>  
+</Tests>   
